@@ -2,8 +2,8 @@
 #  自动构建 NEWIFI3
 #     花妆男
 # # # # # # # # # # #
-name: Padavan CI NEWIFI3
-on:
+#name: Padavan CI NEWIFI3
+#on:
   # schedule:                           # 时间表
   #   - cron: '0 19 * * *'              # 每天国际时间19点，北京时间凌晨3点执行(北京+8)
   #push:                               # push 操作
